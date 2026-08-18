@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. /etc/init.d/libmedia.sh
+#. /etc/init.d/libmedia.sh
 
 DAEMON="/usr/bin/majestic"
 NAME="majestic"
